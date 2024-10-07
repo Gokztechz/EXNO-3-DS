@@ -1,4 +1,6 @@
 ## EXNO-3-DS
+## NAME: GOKUL SHARAN R
+## REG NO: 212223040052
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
